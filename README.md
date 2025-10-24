@@ -40,15 +40,15 @@
 <div align="center">
   <img src="public/assets/Netflix-Clone.jpg" alt="logo" width="100%" height="100%">
   <p align="center">Architectural Diagram</p>
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/home-page.PNG" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
-  <img src="./public/assets/mini-portal.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/mini-portal.PNG" alt="Logo" width="100%" height="100%">
   <p align="center">Mini Portal</p>
-  <img src="./public/assets/detail-modal.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/detail-modal.PNG" alt="Logo" width="100%" height="100%">
   <p align="center">Detail Model</p>
-  <img src="./public/assets/grid-genre.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/grid-genre.PNG" alt="Logo" width="100%" height="100%">
   <p align="center">Grid Genre Page</p>
-  <img src="./public/assets/watch.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/watch.PNG" alt="Logo" width="100%" height="100%">
   <p align="center">Watch Page with customer contol bar</p>
 </div>
 
